@@ -6,6 +6,26 @@
 	"engines": {
 		"vscode": "^1.47.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/casvanluijtelaar/dart-firestore-dataclass-generator"
+	},
+	"bugs": {
+		"url": "https://github.com/casvanluijtelaar/dart-firestore-dataclass-generator/issues"
+		
+	},
+	"icon": "assets/icon.png",
+	"keywords": [
+		"dart",
+		"firestore",
+		"generator",
+		"data class"
+	],
+	"author": {
+		"name": "casvanluijtelaar",
+		"email": "cas@rvised.com",
+		"url": "https://www.rvised.com"
+	},
 	"categories": [
 		"Other"
 	],
