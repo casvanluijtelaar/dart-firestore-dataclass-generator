@@ -1,8 +1,8 @@
 {
 	"name": "dart-firestore-dataclass-generator",
-	"displayName": "dart firestore dataclass generator",
-	"description": "generate dart data classes from firestore documents",
-	"version": "0.0.1",
+	"displayName": "Dart Firestore Class Generator",
+	"description": "Generate dart data classes from Firebase Firestore documents",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
@@ -21,6 +21,7 @@
 		"generator",
 		"data class"
 	],
+	"publisher": "casvanluijtelaar",
 	"author": {
 		"name": "casvanluijtelaar",
 		"email": "cas@rvised.com",
@@ -50,7 +51,7 @@
 		"test": "node ./out/test/runTest.js"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.52.0",
+		"@types/vscode": "^1.47.0",
 		"@types/glob": "^7.1.3",
 		"@types/mocha": "^8.0.4",
 		"@types/node": "^12.11.7",

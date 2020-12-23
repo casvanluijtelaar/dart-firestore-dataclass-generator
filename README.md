@@ -2,7 +2,7 @@
 
 Automatically generate a dart data class directly from a Firebase Firestore document.
 
-## Features :link:
+## Features
 
 Generate custom classes that support all the base firestore types, as well as custom types. 
 
@@ -20,11 +20,11 @@ create an empty dart file, add your variables and run the  `Dart: Generate Fires
 
 
 
-## Known Issues :heavy_exclamation_mark:
+## Known Issues
 
 - No support yet for nested Lists and Maps
 
-## Get involved! :raised_hands:
+## Get involved! 
 
 this was a weekend project and is in no way finished yet. If you find any bugs or want to contribute, let me know on [GitHub](https://github.com/casvanluijtelaar/dart-firestore-dataclass-generator)
 
